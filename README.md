@@ -1,5 +1,3 @@
-# Tip Calculator
-
 ## ShoppingCart
 
 Shopping site project that includes basic function such as adding to cart, delete form cart and product list.
@@ -10,6 +8,6 @@ An basic site with shopping function. You can check product, add it to cart, inc
 
 ## Built with
 
-React.js
-Tailwind CSS
-TypeScript
+- React.js
+- Tailwind CSS
+- TypeScript
